@@ -1,5 +1,6 @@
 # avocado-workspace
 
-This code is available to use but not tested completely. May be bugs or not fully accurate. If you have found a bug please report to me.
+Koden är inte fullständigt kompatibel med alla versioner av minecraft och kan ha buggar eller glitches. Om du hittar några var vänlig rapportera
 
- #Code starts 2/19/19#
+
+ #Koden börjar 2/19/19#
